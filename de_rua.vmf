@@ -11319,16 +11319,6 @@ world
 	}
 	group
 	{
-		"id" "5729"
-		editor
-		{
-			"color" "236 209 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "5738"
 		editor
 		{
