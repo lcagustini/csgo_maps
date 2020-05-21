@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "204"
+	"mapversion" "205"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -44,7 +44,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "204"
+	"mapversion" "205"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -30176,6 +30176,39 @@ world
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
+	}
+}
+entity
+{
+	"id" "28963"
+	"classname" "tar_config"
+	"aoSize" "1000"
+	"background" "grid.png"
+	"colorScheme" "4"
+	"customCol0" "39 56 79"
+	"customCol1" "77 74 72"
+	"customCol2" "178 113 65"
+	"enableAO" "1"
+	"enableOutline" "1"
+	"outlineWidth" "2"
+	"ssaam" "3"
+	"vgroup_cover" "tar_cover"
+	"vgroup_layout" "tar_layout"
+	"vgroup_negative" "tar_mask"
+	"vgroup_overlap" "tar_overlap"
+	"zColAO" "0 0 0 255"
+	"zColBuyzone" "46 211 57 255"
+	"zColCover" "179 179 179 255"
+	"zColCover2" "85 85 85 210"
+	"zColObjective" "196 75 44 255"
+	"zColOutline" "204 204 204 255"
+	"origin" "-784 -208 561"
+	editor
+	{
+		"color" "127 224 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 entity
