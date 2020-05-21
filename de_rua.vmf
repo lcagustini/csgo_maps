@@ -1933,7 +1933,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-64.0001 -2112 0]"
+				"startposition" "[-64 -2112 0]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -2573,7 +2573,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-64.0002 -1792 0]"
+				"startposition" "[-64 -1792 0]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -3213,7 +3213,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-64.0001 -1472 0]"
+				"startposition" "[-64 -1472 0]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -4013,7 +4013,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-64.0002 -1152 0]"
+				"startposition" "[-64 -1152 0]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -5133,7 +5133,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-64.0002 -832 0]"
+				"startposition" "[-64 -832 0]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -6253,7 +6253,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-64.0002 -512 0]"
+				"startposition" "[-64 -512 0]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -7373,7 +7373,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-64.0002 -192 0]"
+				"startposition" "[-64 -192 0]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -7766,7 +7766,7 @@ world
 					"row4" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row5" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row6" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
-					"row7" "9 1 9 9 1 1 9 9 9 9 1 1 9 9 1 9"
+					"row7" "9 1 9 9 9 9 9 9 9 9 9 9 9 9 1 9"
 				}
 				allowed_verts
 				{
@@ -7926,7 +7926,7 @@ world
 					"row4" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row5" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row6" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
-					"row7" "9 1 9 9 9 9 9 9 1 1 9 9 9 9 1 9"
+					"row7" "9 1 9 9 9 9 9 9 9 9 9 9 9 9 1 9"
 				}
 				allowed_verts
 				{
@@ -8086,7 +8086,7 @@ world
 					"row4" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row5" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row6" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
-					"row7" "9 1 9 9 9 9 9 9 1 1 9 9 9 9 1 9"
+					"row7" "9 1 9 9 9 9 9 9 9 9 9 9 9 9 1 9"
 				}
 				allowed_verts
 				{
@@ -8493,7 +8493,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-64.0002 128 0]"
+				"startposition" "[-64 128 0]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -8879,7 +8879,7 @@ world
 				}
 				triangle_tags
 				{
-					"row0" "0 1 9 9 1 1 9 9 9 9 1 1 9 9 1 9"
+					"row0" "0 1 9 9 9 9 9 9 9 9 9 9 9 9 1 9"
 					"row1" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row2" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row3" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
@@ -9039,7 +9039,7 @@ world
 				}
 				triangle_tags
 				{
-					"row0" "0 1 9 9 9 9 9 9 1 1 9 9 9 9 1 0"
+					"row0" "0 1 9 9 9 9 9 9 9 9 9 9 9 9 1 0"
 					"row1" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row2" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row3" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
@@ -9199,7 +9199,7 @@ world
 				}
 				triangle_tags
 				{
-					"row0" "0 1 9 9 9 9 9 9 1 1 9 9 9 9 1 0"
+					"row0" "0 1 9 9 9 9 9 9 9 9 9 9 9 9 1 0"
 					"row1" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row2" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
 					"row3" "9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
@@ -9613,7 +9613,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-64.0002 448 0]"
+				"startposition" "[-64 448 0]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -10733,7 +10733,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-64.0002 768 0]"
+				"startposition" "[-64 768 0]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -11853,7 +11853,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-64.0002 1088 0]"
+				"startposition" "[-64 1088 0]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
