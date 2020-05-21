@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "176"
+	"mapversion" "177"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "176"
+	"mapversion" "177"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -18318,7 +18318,7 @@ world
 		side
 		{
 			"id" "2948"
-			"plane" "(-1664 448 240) (-1664 -2560 240) (-1600 -2560 240)"
+			"plane" "(-1664 448 208) (-1664 -2560 208) (-1600 -2560 208)"
 			"material" "TOOLS/TOOLSSKYBOX"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -18329,7 +18329,7 @@ world
 		side
 		{
 			"id" "2949"
-			"plane" "(-1664 -2560 240) (-1664 448 240) (-1664 448 1024)"
+			"plane" "(-1664 -2560 208) (-1664 448 208) (-1664 448 1024)"
 			"material" "TOOLS/TOOLSSKYBOX"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -18340,7 +18340,7 @@ world
 		side
 		{
 			"id" "2950"
-			"plane" "(-1600 448 240) (-1600 -2560 240) (-1600 -2560 1024)"
+			"plane" "(-1600 448 208) (-1600 -2560 208) (-1600 -2560 1024)"
 			"material" "TOOLS/TOOLSSKYBOX"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -18351,7 +18351,7 @@ world
 		side
 		{
 			"id" "2951"
-			"plane" "(-1664 448 240) (-1600 448 240) (-1600 448 1024)"
+			"plane" "(-1664 448 208) (-1600 448 208) (-1600 448 1024)"
 			"material" "TOOLS/TOOLSSKYBOX"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -18362,7 +18362,7 @@ world
 		side
 		{
 			"id" "2952"
-			"plane" "(-1600 -2560 240) (-1664 -2560 240) (-1664 -2560 1024)"
+			"plane" "(-1600 -2560 208) (-1664 -2560 208) (-1664 -2560 1024)"
 			"material" "TOOLS/TOOLSSKYBOX"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
