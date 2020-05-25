@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "345"
+	"mapversion" "350"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,13 +38,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "32"
+	"nGridSpacing" "8"
 	"bShow3DGrid" "1"
 }
 world
 {
 	"id" "1"
-	"mapversion" "345"
+	"mapversion" "350"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -31055,7 +31055,7 @@ entity
 		side
 		{
 			"id" "8617"
-			"plane" "(-384 706.719 192) (-384 712 192) (-268.269 712 192)"
+			"plane" "(-384 712 192) (-268.265 712 192) (-268.265 706.719 192)"
 			"material" "HR_MASSIVE/WOOD_PLYWOOD"
 			"uaxis" "[1 0 0 -477] 0.323"
 			"vaxis" "[0 -1 0 90.5847] 0.323"
@@ -31066,7 +31066,7 @@ entity
 		side
 		{
 			"id" "8616"
-			"plane" "(-384 712 32) (-384 706.72 32) (85.3327 706.719 32)"
+			"plane" "(-384 706.72 32) (85.3327 706.719 32) (85.3327 712 32)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -31077,7 +31077,7 @@ entity
 		side
 		{
 			"id" "8615"
-			"plane" "(-384 706.719 32) (-384 712 32) (-384 712 191.999)"
+			"plane" "(-384 712 32) (-384 712 192) (-384 706.719 192)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
@@ -31088,7 +31088,7 @@ entity
 		side
 		{
 			"id" "8614"
-			"plane" "(85.3335 712 32) (85.3335 706.72 32) (85.3335 706.72 62.4761)"
+			"plane" "(85.3327 706.719 32) (85.3335 706.72 77.7159) (85.3335 712 77.7159)"
 			"material" "HR_MASSIVE/WOOD_PLYWOOD"
 			"uaxis" "[0 0.323495 -0.94623 280.46] 0.323"
 			"vaxis" "[0 -0.94623 -0.323495 407.742] 0.323"
@@ -31099,7 +31099,7 @@ entity
 		side
 		{
 			"id" "8613"
-			"plane" "(-384 712 32) (85.3335 712 32) (85.3332 712 62.4762)"
+			"plane" "(85.3327 712 32) (85.3335 712 77.7159) (-268.265 712 192)"
 			"material" "HR_MASSIVE/WOOD_PLYWOOD"
 			"uaxis" "[1 0 0 -477] 0.323"
 			"vaxis" "[0 0 -1 0] 0.323"
@@ -31110,7 +31110,7 @@ entity
 		side
 		{
 			"id" "8612"
-			"plane" "(85.332 706.72 32) (-384 706.72 32) (-384 706.72 191.999)"
+			"plane" "(-384 706.72 32) (-384 706.719 192) (-268.265 706.719 192)"
 			"material" "HR_MASSIVE/WOOD_PLYWOOD"
 			"uaxis" "[1 0 0 -477] 0.323"
 			"vaxis" "[0 0 -1 0] 0.323"
@@ -31121,7 +31121,7 @@ entity
 		side
 		{
 			"id" "8611"
-			"plane" "(-268.262 706.719 191.999) (-268.262 712 191.999) (85.3335 712 62.4778)"
+			"plane" "(-268.265 712 192) (85.3335 712 77.7159) (85.3335 706.72 77.7159)"
 			"material" "HR_MASSIVE/WOOD_PLYWOOD"
 			"uaxis" "[0.895351 0.323495 -0.3061 -75.8729] 0.323"
 			"vaxis" "[0.3061 -0.94623 -0.104649 285.92] 0.323"
